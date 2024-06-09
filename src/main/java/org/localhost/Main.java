@@ -14,8 +14,15 @@ public class Main {
                 new Integer[]{random.nextInt(100), random.nextInt(100), random.nextInt(100), random.nextInt(100)},
                 new Integer[]{random.nextInt(100), random.nextInt(100), random.nextInt(100), random.nextInt(100)},
         };
+        Integer[][] data = new Integer[][]{
+                new Integer[]{1,3,4,5},
+                new Integer[]{23,89,59},
+                new Integer[]{66,22,5,13},
+        };
+
         numberFinder.processNumbers(numbers);
-        System.out.println(        numberFinder.processNumbers(numbers)
+        System.out.println(numberFinder.processNumbers(data)
+
         );
 
 
