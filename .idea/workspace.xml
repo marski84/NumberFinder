@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19173596-07ca-41e0-beee-30bb4eb7307e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NumberFinderRecursion/NumberFinderRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NumberFinderRecursion/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NumberFinderRecursion/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/localhost/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/localhost/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/localhost/NumberFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/localhost/NumberFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/localhost/NumberFinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/localhost/NumberFinderTest.java" afterDir="false" />
     </list>
-    <list id="9b8d3d57-5e03-4d0d-9701-13721dd3c0f4" name="Changes by sebastian.siarczynsk" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/localhost/NumberFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/localhost/NumberFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/localhost/NumbersUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/localhost/NumbersUtils.java" afterDir="false" />
-    </list>
+    <list id="9b8d3d57-5e03-4d0d-9701-13721dd3c0f4" name="Changes by sebastian.siarczynsk" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,23 +44,6 @@
   <component name="KubernetesApiProvider"><![CDATA[{
   "isMigrated": true
 }]]></component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/src/main/java/org/localhost/NumberFinder.java">
-      <ranges>
-        <range start1="1" end1="2" start2="1" end2="1" changelist="19173596-07ca-41e0-beee-30bb4eb7307e" />
-        <range start1="3" end1="4" start2="2" end2="2" changelist="19173596-07ca-41e0-beee-30bb4eb7307e" />
-        <range start1="5" end1="8" start2="3" end2="3" changelist="19173596-07ca-41e0-beee-30bb4eb7307e" />
-        <range start1="10" end1="12" start2="5" end2="6" changelist="19173596-07ca-41e0-beee-30bb4eb7307e" />
-        <range start1="14" end1="15" start2="8" end2="9" changelist="19173596-07ca-41e0-beee-30bb4eb7307e" />
-        <range start1="19" end1="20" start2="13" end2="15" changelist="19173596-07ca-41e0-beee-30bb4eb7307e" />
-        <range start1="26" end1="37" start2="21" end2="21" changelist="19173596-07ca-41e0-beee-30bb4eb7307e" />
-        <range start1="40" end1="49" start2="24" end2="26" changelist="9b8d3d57-5e03-4d0d-9701-13721dd3c0f4" />
-        <range start1="52" end1="55" start2="29" end2="32" changelist="19173596-07ca-41e0-beee-30bb4eb7307e" />
-        <range start1="57" end1="59" start2="34" end2="35" changelist="19173596-07ca-41e0-beee-30bb4eb7307e" />
-        <range start1="71" end1="71" start2="47" end2="54" changelist="9b8d3d57-5e03-4d0d-9701-13721dd3c0f4" />
-      </ranges>
-    </file>
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -79,6 +57,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.NumberFinder.executor": "Run",
+    "Application.NumberFinderRecursion.executor": "Run",
     "JUnit.NumberFinderTest.ItShouldProcessNumbersAndReturnDataAsMap.executor": "Run",
     "JUnit.NumberFinderTest.itShouldThrowExceptionWhenInputArrIsEmpty.executor": "Run",
     "JUnit.NumberFinderTest.itShouldThrowExceptionWhenInputIsNull.executor": "Run",
@@ -88,6 +67,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/marcinochmanski/Desktop/java/NumberFinder/src/test/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -98,6 +78,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -105,13 +88,26 @@
       <recent name="org.localhost" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NumberFinderTest.itShouldThrowExceptionWhenInputArrIsEmpty">
+  <component name="RunManager" selected="Application.NumberFinderRecursion">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.localhost.Main" />
       <module name="NumberFinder" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.localhost.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberFinderRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberFinderRecursion.NumberFinderRecursion" />
+      <module name="NumberFinder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NumberFinderRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,6 +165,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberFinderRecursion" />
         <item itemvalue="JUnit.NumberFinderTest.itShouldThrowExceptionWhenInputArrIsEmpty" />
         <item itemvalue="JUnit.NumberFinderTest.itShouldThrowExceptionWhenInputIsNull" />
         <item itemvalue="JUnit.NumberFinderTest.ItShouldProcessNumbersAndReturnDataAsMap" />
@@ -193,7 +190,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717184776537</updated>
       <workItem from="1717184777490" duration="32404000" />
-      <workItem from="1717684436004" duration="6207000" />
+      <workItem from="1717684436004" duration="21770000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
